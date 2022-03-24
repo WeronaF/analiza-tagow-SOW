@@ -12,6 +12,6 @@ Jak powinien wyglądać zbiór danych? (3 pliki csv)
 * kolumna 'tagi' (separator ustalany w separator_refined)
 * puste komórki pozostawione bez wartości
 
-3. kategoryzacja (zbiór występujących tagów z przypisaną kategorią):
+3. kategoryzacja (zbiór unikatowych tagów z przypisaną kategorią):
 * kolumna 'tagi'
-* kolumna 'kategoria'
+* kolumna 'kategoria'- nazwy kategorii nie mogą zawierać przecinków (tematy, pojęcia -> Tematy i pojęcia)
